@@ -1,3 +1,5 @@
+[DEPRECATED] Further development of `croustille-io/twill-image` will be on [area17/twill-image](https://github.com/area17/twill-image).
+
 # Twill Image
 
 Image module for Twill.
@@ -163,10 +165,3 @@ Will output:
   }
 }
 ```
-
-## TODO
-
-- Refactor TwillImageSource getData/fromData
-- Use Blade components
-  - `<x-image data="$data" layout="fullWidth"></x-image>`
-  - `<x-image model="$project" role="preview_image" layout="fixed" width="200" height="200"></x-image>`
